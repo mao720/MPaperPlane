@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">M Paper Plane</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_bookmarks">收藏</string>
+
+    <string name="change_theme">切换主题</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="zhihu_daily">知乎日报</string>
+    <string name="guokr_handpick">果壳精选</string>
+    <string name="douban_moment">豆瓣一刻</string>
+    <string name="feel_lucky">随便看看</string>
+    <string name="loaded_failed">加载失败！</string>
+    <string name="retry">重试</string>
+    <string name="loading">正在加载...</string>
+
+</resources>
